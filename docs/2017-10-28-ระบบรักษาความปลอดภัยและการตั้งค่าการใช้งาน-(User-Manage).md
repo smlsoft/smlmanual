@@ -8,7 +8,5 @@
   * [กำหนดสิทธิิ์กลุ่มผู้ใช้งาน](http://www.smlaccount.com/manual/?page_id=497)
   * [กำหนดผู้มีสิทธิ์ใช้ข้อมูล](http://www.smlaccount.com/manual/?page_id=1233)
 
-[![](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/user-
-manage.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/user-
-manage.jpg)user-manage
+[![user-manage](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/user-manage.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/user-manage.jpg)user-manage
 

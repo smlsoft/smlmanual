@@ -15,46 +15,29 @@
   * **ใส่รหัสสมาชิก**
   * ใส่รหัสพนักงานขาย
 
-ค้นหาและใส่ลูกค้า[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้า-01.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้า-01.jpg)
+ค้นหาและใส่ลูกค้า[![การค้นหาลูกค้า-01](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้า-01.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้า-01.jpg)
 
 
 
-**ใส่รหัสสมาชิก**[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-01.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-01.jpg)
-[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-02.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-02.jpg)
+**ใส่รหัสสมาชิก**[![การค้นหาลูกค้าสมาชิก-01](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-01.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-01.jpg)
+[![การค้นหาลูกค้าสมาชิก-02](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-02.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาลูกค้าสมาชิก-02.jpg)
 
 
 
-**ค้นหารายการสินค้า**[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาสินค้า-01.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาสินค้า-01.jpg)
-[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาสินค้า-02.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การค้นหาสินค้า-02.jpg)
+**ค้นหารายการสินค้า**[![การค้นหาสินค้า-01](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาสินค้า-01.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาสินค้า-01.jpg)
+[![การค้นหาสินค้า-02](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาสินค้า-02.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การค้นหาสินค้า-02.jpg)
 
 
 
-**การยกเลิกใบกำกับภาษีอย่างย่อ**[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การยกเลิกใบกำกับภาษีอย่างย่อ-ขาย-
-POS-1.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การยกเลิกใบกำกับภาษีอย่างย่อ-ขาย-POS-1.jpg)
+**การยกเลิกใบกำกับภาษีอย่างย่อ**[![การยกเลิกใบกำกับภาษีอย่างย่อ-ขาย-POS-1](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การยกเลิกใบกำกับภาษีอย่างย่อ-ขาย-POS-1.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การยกเลิกใบกำกับภาษีอย่างย่อ-ขาย-POS-1.jpg)
 
 
 
-**นำใบกำกับอย่างย่อมาออกใบกำกับภาษีเต็มรูป**[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การออกใบกำกับภาษีเต็มรูป-01.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/การออกใบกำกับภาษีเต็มรูป-01.jpg)
+**นำใบกำกับอย่างย่อมาออกใบกำกับภาษีเต็มรูป**[![การออกใบกำกับภาษีเต็มรูป-01](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การออกใบกำกับภาษีเต็มรูป-01.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/การออกใบกำกับภาษีเต็มรูป-01.jpg)
 
 
 
-**พิมพ์ใบกำกับภาษีอย่างย่อใหม่**[![](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/พิมพ์ใบกำกับอย่างย่อใหม่-01.jpg)](http://www.smlaccount.com/manual/wp-
-content/uploads/2017/11/พิมพ์ใบกำกับอย่างย่อใหม่-01.jpg)
+**พิมพ์ใบกำกับภาษีอย่างย่อใหม่**[![พิมพ์ใบกำกับอย่างย่อใหม่-01](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/พิมพ์ใบกำกับอย่างย่อใหม่-01.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/พิมพ์ใบกำกับอย่างย่อใหม่-01.jpg)
 
 
 

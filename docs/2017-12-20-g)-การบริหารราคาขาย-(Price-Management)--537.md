@@ -10,50 +10,17 @@
   * รูปแบบราคาขายตามบาร์โค๊ต Barcode Price
 
   **รูปแบบราคาขายมาตรฐาน Standrad
-    Price**[![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-
-    Page-1.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-1.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-
-    Page-2.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-2.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-
-    Page-3.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-3.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-
-    Page-4.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-4.jpg)
+    Price**[![กำหนดราคาขายมาตรฐาน-Page-1](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-1.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-1.jpg)
+    [![กำหนดราคาขายมาตรฐาน-Page-2](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-2.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-2.jpg)
+    [![กำหนดราคาขายมาตรฐาน-Page-3](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-3.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-3.jpg)
+    [![กำหนดราคาขายมาตรฐาน-Page-4](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-4.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายมาตรฐาน-Page-4.jpg)
     **รูปแบบราคาขายทั่วไป Gerneral
-    Price**[![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-
-    Page-1.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-1.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-
-    Page-2.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-2.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-
-    Page-3.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-3.jpg)
+    Price**[![กำหนดราคาขายทั่วไป-Page-1](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-1.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-1.jpg)
+    [![กำหนดราคาขายทั่วไป-Page-2](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-2.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-2.jpg)
+    [![กำหนดราคาขายทั่วไป-Page-3](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-3.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายทั่วไป-Page-3.jpg)
     **รูปแบบราคาขายตามสูตร Fomula
-    Price**[![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-
-    page1.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-
-    page1.jpg)[![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-
-    page-2.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-page-2.jpg)
-    [![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-
-    page-3.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนราคาขายตามสูตร-page-3.jpg)
+    Price**[![กำหนราคาขายตามสูตร-page1](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page1.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page1.jpg)[![กำหนราคาขายตามสูตร-page-2](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page-2.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page-2.jpg)
+    [![กำหนราคาขายตามสูตร-page-3](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page-3.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนราคาขายตามสูตร-page-3.jpg)
     **รูปแบบราคาขายตามบาร์โค๊ต Barcode
-    Price**[![](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายตามฺ-BARCODE.jpg)](http://www.smlaccount.com/manual/wp-
-    content/uploads/2017/10/กำหนดราคาขายตามฺ-BARCODE.jpg)   โดยระบบ SML
+    Price**[![กำหนดราคาขายตามฺ-BARCODE](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายตามฺ-BARCODE.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/กำหนดราคาขายตามฺ-BARCODE.jpg)   โดยระบบ SML
 
