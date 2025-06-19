@@ -1,0 +1,19 @@
+# vi)    ระบบการขายPOS Lite
+
+**Point of Sale** **การตั้งค่าระบบและกำนดเครื่อง POS**
+
+  * [กำหนดค่าเริ่มต้น POS](http://www.smlaccount.com/manual/?page_id=303)
+  * [การกำหนดรหัสเครื่อง POS](http://www.smlaccount.com/manual/?page_id=307)
+  * [กำหนดคุณสมบัติเครื่อง POS](http://www.smlaccount.com/manual/?page_id=311)
+  * [ กำหนดพนักงาน การใช้งาน POS](http://www.smlaccount.com/manual/?page_id=315)
+
+**วิธีการใช้งาน SML POS**
+
+  * [ ระบบการขายPOS](http://www.smlaccount.com/manual/?page_id=324)
+  * [ เครื่องมือ SML POS](http://www.smlaccount.com/manual/?page_id=320)
+  * [ระบบสมาชิก คูปอง แต้มสะสม](http://www.smlaccount.com/manual/?page_id=172)
+  * [ โปรโมชั่น ของแถม ส่วนลด ราคา](http://www.smlaccount.com/manual/?page_id=176)
+  * [ ระบบการให้ส่วนลด](http://www.smlaccount.com/manual/?page_id=356)
+
+
+
