@@ -1,5 +1,5 @@
 # d)    การจัดการหน่วยนับ(Auto Packing)  136
 
-[![Auto-Packing](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/Auto-Packing.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/10/Auto-Packing.jpg)
+[![Auto-Packing](/images/Auto-Packing.jpg)](/images/Auto-Packing.jpg)
 **[วีดีโอการจัดการหน่วยนับ](https://youtu.be/ACr8TEuLfhQ) (Auto Packing )**  
 

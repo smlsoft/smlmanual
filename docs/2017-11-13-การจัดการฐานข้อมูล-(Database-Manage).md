@@ -10,7 +10,7 @@ _**Database Manage**_
   * Data Base Information
   * [**โอนข้อมูล**](http://www.smlaccount.com/manual/?page_id=1271)
 
-[![Databaser-manage](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/Databaser-manage.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/Databaser-manage.jpg)
+[![Databaser-manage](/images/Databaser-manage.jpg)](/images/Databaser-manage.jpg)
 
 
 

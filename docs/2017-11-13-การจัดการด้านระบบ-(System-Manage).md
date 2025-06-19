@@ -7,7 +7,7 @@
   * เปลี่ยนรหัสผ่าน
   * Register
 
-[![System-manage](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/System-manage.jpg)](http://www.smlaccount.com/manual/wp-content/uploads/2017/11/System-manage.jpg)
+[![System-manage](/images/System-manage.jpg)](/images/System-manage.jpg)
 
 
 
