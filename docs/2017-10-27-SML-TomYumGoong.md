@@ -1,0 +1,81 @@
+# SML TomYumGoong
+
+# คู่มือ SML TomYumGoong
+
+[SML TomYumGoong](http://www.smlaccount.com/manual/?page_id=68)collapse child
+menu
+
+  * [a) การตั้งค่าระบบเริ่มต้น TYG](http://www.smlaccount.com/manual/?page_id=184)collapse child menu
+    * [i) ค่าเริ่มต้นระบบ 400](http://www.smlaccount.com/manual/?page_id=3858)collapse child menu
+      * [(1) กำหนดรายละเอียดกิจการ 412](http://www.smlaccount.com/manual/?page_id=3862)
+      * [(2) กำหนดแผนก กลุ่มพนักงาน พนักงาน 420](http://www.smlaccount.com/manual/?page_id=3866)
+      * [(3) ผู้ใช้งานระบบ MIS 1048](http://www.smlaccount.com/manual/?page_id=3870)
+      * [(4) ระบบสาขา 408](http://www.smlaccount.com/manual/?page_id=3874)
+      * [(5) กำหนดรูปแบบเอกสาร,กำหนดฟอร์ม,การผูกบัญชี 416](http://www.smlaccount.com/manual/?page_id=3878)
+      * [(6) กำหนดค่าการขนส่ง 1061](http://www.smlaccount.com/manual/?page_id=3882)
+      * [(7) การกำหนดสกุลเงิน 1052](http://www.smlaccount.com/manual/?page_id=3886)
+      * [(8) การกำหนดค่า จังหวัด อำเภอและตำบล 1056](http://www.smlaccount.com/manual/?page_id=3890)
+    * [ii) ค่าหลัก(Master) TYG](http://www.smlaccount.com/manual/?page_id=3903)collapse child menu
+      * [(1) ค่าหลัก ระบบสินค้าคงคลัง 502](http://www.smlaccount.com/manual/?page_id=3907)
+      * [(2) ค่าหลัก ระบบขาย TYG](http://www.smlaccount.com/manual/?page_id=3911)
+      * [(3) ค่าหลัก ระบบเจ้าหนี้ TYG](http://www.smlaccount.com/manual/?page_id=3915)
+      * [(4) ค่าหลัก ระบบลูกหนี้ TYG](http://www.smlaccount.com/manual/?page_id=3919)
+  * [b) เครื่องมือ TYG](http://www.smlaccount.com/manual/?page_id=3928)collapse child menu
+    * [i) ระบบข้อมูล 97](http://www.smlaccount.com/manual/?page_id=3932)collapse child menu
+      * [(1) กำหนดรูปแบบการค้นหาข้อมูล(ในเมนูรายวันต่างๆ) 453](http://www.smlaccount.com/manual/?page_id=3936)
+      * [(2) การสำรองข้อมูลและการนำข้อมูลกลับมาใช้ 457](http://www.smlaccount.com/manual/?page_id=3940)
+      * [(3) ตรวจสอบและปรับปรุงข้อมูลอัตโนมัติ 465](http://www.smlaccount.com/manual/?page_id=3944)
+      * [(4) การตรวจสอบโครงสร้างพื้นฐานข้อมูล (verify Data Base) 461](http://www.smlaccount.com/manual/?page_id=3948)
+      * [(5) เปลี่ยนรหัสผ่าน admin 469](http://www.smlaccount.com/manual/?page_id=3952)
+      * [(6) ใช้คำสั่ง Query 473](http://www.smlaccount.com/manual/?page_id=3956)
+    * [ii) การเปลี่ยนรหัสหลัก 100](http://www.smlaccount.com/manual/?page_id=3960)
+    * [iii) การนำเข้าข้อมูลหลัก 103](http://www.smlaccount.com/manual/?page_id=3964)
+    * [iv) ประวัติการใช้งาน 106](http://www.smlaccount.com/manual/?page_id=3968)
+  * [c) การใช้งาน SML TomYumGoog](http://www.smlaccount.com/manual/?page_id=3983)collapse child menu
+    * [i) เข้าใช้งานโปรแกรม(Log in) 1389](http://www.smlaccount.com/manual/?page_id=3987)
+    * [ii) ก่อนการใช้งาน 815](http://www.smlaccount.com/manual/?page_id=3991)
+    * [iii) ระบบคลังสินค้า 220](http://www.smlaccount.com/manual/?page_id=3995)collapse child menu
+      * [(1) ข้อมูลสินค้า 1089](http://www.smlaccount.com/manual/?page_id=3999)
+      * [รายละเอียดสินค้าเพิ่มเติม 1864 Y](http://www.smlaccount.com/manual/?page_id=4003)
+      * [(3) ระบบเบิกจ่ายและรับสินค้า 561](http://www.smlaccount.com/manual/?page_id=4007)collapse child menu
+        * [(a) รับสินค้าสำเร็จรูป 1491](http://www.smlaccount.com/manual/?page_id=4011)
+        * [(c) เบิกสินค้า/วัตถุดิบ 1499](http://www.smlaccount.com/manual/?page_id=4015)
+        * [(d) รับคืนสินค้า/วัตถุดิบจากการเบิก 1503](http://www.smlaccount.com/manual/?page_id=4019)
+      * [(4) ระบบโอนสินค้า 565](http://www.smlaccount.com/manual/?page_id=4023)
+      * [(5) ระบบตรวจนับสต๊อก 569](http://www.smlaccount.com/manual/?page_id=4027)
+    * [iv) ซื้อสินค้า/ตั้งหนี้ 664](http://www.smlaccount.com/manual/?page_id=4174)
+    * [v) การสั่งอาหาร TYG](http://www.smlaccount.com/manual/?page_id=188)collapse child menu
+      * [i) กำหนดค่าเริ่มต้น](http://www.smlaccount.com/manual/?page_id=192)collapse child menu
+        * [(1) กำหนดโต๊ะ](http://www.smlaccount.com/manual/?page_id=4182)
+        * [(2) กำหนดรหัสเครื่องสั่งอาหาร](http://www.smlaccount.com/manual/?page_id=4190)
+        * [(3) กำหนดคุณสมบัติเครื่องสั่งอาหาร](http://www.smlaccount.com/manual/?page_id=4194)
+        * [(4) กำหนดห้องครัว/บาร์น้ำ](http://www.smlaccount.com/manual/?page_id=4198)
+        * [(5) ตรวจสอบการพิมพ์ครัว/บาร์น้ำ](http://www.smlaccount.com/manual/?page_id=4202)
+        * [(6) หมายเหตุสินค้าทั้งหมด](http://www.smlaccount.com/manual/?page_id=4206)
+      * [ii) สั่งอาหาร](http://www.smlaccount.com/manual/?page_id=4210)
+      * [iii) สั่งอาหารด้วยรหัส](http://www.smlaccount.com/manual/?page_id=4214)
+      * [iv) สั่งจัดอาหาร](http://www.smlaccount.com/manual/?page_id=4218)
+    * [vi) ระบบการขายPOS TYG](http://www.smlaccount.com/manual/?page_id=4044)collapse child menu
+      * [(1) การตั้งค่าระบบและการกำหนดเครื่องPOS 164](http://www.smlaccount.com/manual/?page_id=4049)collapse child menu
+        * [(a) กำหนดค่าเริ่มต้น POS 303](http://www.smlaccount.com/manual/?page_id=4053)
+        * [(b) การกำหนดรหัสเครื่อง POS 307](http://www.smlaccount.com/manual/?page_id=4057)
+        * [(c) กำหนดคุณสมบัติเครื่อง POS 311](http://www.smlaccount.com/manual/?page_id=4061)
+        * [(d) กำหนดพนักงาน การใช้งาน POS 315](http://www.smlaccount.com/manual/?page_id=4065)
+      * [(2) วิธีการใช้โปรแกรม SML POS 168](http://www.smlaccount.com/manual/?page_id=4069)collapse child menu
+        * [(a) ระบบการขายPOS 324](http://www.smlaccount.com/manual/?page_id=4137)expand child menu
+        * [(b) เครื่องมือ SML POS 320](http://www.smlaccount.com/manual/?page_id=4132)collapse child menu
+          * [(i) การจัดการ Barcode 336](http://www.smlaccount.com/manual/?page_id=4073)
+          * [(ii) การใช้งาน Customer Display 340](http://www.smlaccount.com/manual/?page_id=4077)
+          * [(iii) การตั้งค่ากับเครื่องชั่งน้ำหนัก 332](http://www.smlaccount.com/manual/?page_id=4081)
+        * [(c) ระบบสมาชิก คูปอง แต้มสะสม 172](http://www.smlaccount.com/manual/?page_id=4085)collapse child menu
+          * [(i) การตั้งค่าสมาชิก 344](http://www.smlaccount.com/manual/?page_id=4090)
+          * [(ii) กำหนดและสร้างคูปอง 348](http://www.smlaccount.com/manual/?page_id=4094)
+          * [(iii) การสะสมแต้ม 352](http://www.smlaccount.com/manual/?page_id=4098)
+        * [(d) โปรโมชั่น ของแถม ส่วนลดราคา 176](http://www.smlaccount.com/manual/?page_id=4102)
+        * [(e) ระบบการให้ส่วนลด 356](http://www.smlaccount.com/manual/?page_id=4106)
+        * [(f) ตั้งค่าการค้นหา(item Search)จอขาย POS 2173](http://www.smlaccount.com/manual/?page_id=4110)
+    * [vii) เจ้าหนี้การค้า TYG](http://www.smlaccount.com/manual/?page_id=4232)collapse child menu
+      * [(1) ข้อมูลเจ้าหนี้ 988](http://www.smlaccount.com/manual/?page_id=4236)
+      * [(2) รายละเอียดเจ้าหนี้ 1766](http://www.smlaccount.com/manual/?page_id=4240)
+  * [d) ติดตั้งการใช้งาน Tablet](http://www.smlaccount.com/manual/?page_id=1877)
+
